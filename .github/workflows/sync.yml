@@ -1,0 +1,43 @@
+name: Sync GitHub Archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */1 * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install deps
+        run: pnpm install
+
+      - name: Sync data
+        run: pnpm tsx src/core/run-all.ts
+        env:
+          GH_ARCHIVE_TOKEN: ${{ secrets.GH_ARCHIVE_TOKEN }}
+
+      - name: Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add .
+          git diff --cached --quiet || git commit -m "sync snapshot"
+          git push

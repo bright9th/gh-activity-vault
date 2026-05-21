@@ -1,1 +1,1 @@
-a
+This repo contains public GitHub activity data of [myself @bright9th](https://github.com/bright9th) collected via the GitHub API. Data usage will be purely for analytical purpose about myself.
