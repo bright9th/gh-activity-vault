@@ -3,7 +3,7 @@ import { runCollector } from "./run-collector";
 import { loadCollectors } from "./load-collectors";
 import { generateManifest } from "./generate-manifest";
 import { durationMs, nowIso } from "../utils/time";
-import { createLoadingText } from "../utils/loading-text";
+// import { createLoadingText } from "../utils/loading-text";
 import { writeJson } from "../io/write-json";
 import { CollectorExecutionReport } from "../types/report";
 
@@ -16,12 +16,12 @@ async function main() {
   const collectors = await loadCollectors();
 
   for (const collector of collectors) {
-    const loader = createLoadingText(`Current: ${collector.name}`);
+    // const loader = createLoadingText(`Current: ${collector.name}`);
 
     const report = await runCollector(collector);
     reports.push(report);
 
-    loader.stop();
+    // loader.stop();
     console.log(report);
   }
 
