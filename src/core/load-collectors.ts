@@ -1,7 +1,7 @@
 import fg from "fast-glob";
 import { pathToFileURL } from "node:url";
 
-import type { Collector } from "./collector";
+import type { Collector } from "../types/collector";
 
 export async function loadCollectors(): Promise<Collector<any>[]> {
   const files = await fg("collectors/**/index.ts", {

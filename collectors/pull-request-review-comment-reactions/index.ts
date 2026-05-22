@@ -1,4 +1,4 @@
-import type { Collector } from "../../src/core/collector";
+import type { Collector } from "../../src/types/collector";
 import type { PullRequestReviewCommentReactionRecord } from "../../src/types/record";
 
 import { fetchPullRequestReviewCommentReactions } from "./fetch";

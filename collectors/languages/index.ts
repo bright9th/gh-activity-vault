@@ -1,4 +1,4 @@
-import type { Collector } from "../../src/core/collector";
+import type { Collector } from "../../src/types/collector";
 import type { LanguageRecord } from "../../src/types/record";
 
 import { fetchLanguages } from "./fetch";

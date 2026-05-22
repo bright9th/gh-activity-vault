@@ -1,4 +1,4 @@
-import type { Collector } from "../../src/core/collector";
+import type { Collector } from "../../src/types/collector";
 import type { StarRecord } from "../../src/types/record";
 
 import { fetchStars } from "./fetch";

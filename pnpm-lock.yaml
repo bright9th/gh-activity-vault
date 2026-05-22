@@ -20,9 +20,6 @@ importers:
       fast-glob:
         specifier: ^3.3.3
         version: 3.3.3
-      zod:
-        specifier: ^4.4.3
-        version: 4.4.3
     devDependencies:
       '@types/node':
         specifier: ^25.9.1
@@ -359,9 +356,6 @@ packages:
   universal-user-agent@7.0.3:
     resolution: {integrity: sha512-TmnEAEAsBJVZM/AADELsK76llnwcf9vMKuPz8JflO1frO8Lchitr0fNaN9d+Ap0BjKtqWqd/J17qeDnXh8CL2A==}
 
-  zod@4.4.3:
-    resolution: {integrity: sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ==}
-
 snapshots:
 
   '@esbuild/aix-ppc64@0.28.0':
@@ -628,5 +622,3 @@ snapshots:
   undici-types@7.24.6: {}
 
   universal-user-agent@7.0.3: {}
-
-  zod@4.4.3: {}

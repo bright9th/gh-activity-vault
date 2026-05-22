@@ -29,7 +29,7 @@ jobs:
         run: pnpm install
 
       - name: Sync data
-        run: pnpm tsx src/core/run-all.ts
+        run: pnpm tsx src/core/sync.ts
         env:
           GH_ARCHIVE_TOKEN: ${{ secrets.GH_ARCHIVE_TOKEN }}
 
