@@ -85,6 +85,13 @@
   },
   {
     "repo": "bright9th/falling-nikochan",
+    "name": "chord-lineconnector",
+    "protected": false,
+    "commit_sha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
+    "commit_url": "https://api.github.com/repos/bright9th/falling-nikochan/commits/4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a"
+  },
+  {
+    "repo": "bright9th/falling-nikochan",
     "name": "disable-changelog-popup-on-page",
     "protected": false,
     "commit_sha": "15be070e77cf78ac8b91d40a92089ef7c1eab64e",
@@ -113,6 +120,13 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
+    "protected": false,
+    "commit_sha": "c7ad4b25c15ecb8fda0106836d1f23a2ca3bca97",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/c7ad4b25c15ecb8fda0106836d1f23a2ca3bca97"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "name": "dev",
     "protected": true,
     "commit_sha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
@@ -122,8 +136,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "8342350b913b3ef871f74281d60d834b887d33b1",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/8342350b913b3ef871f74281d60d834b887d33b1"
+    "commit_sha": "37be495f62fa12c78fb4996cc324959eb3024be6",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/37be495f62fa12c78fb4996cc324959eb3024be6"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -136,8 +150,8 @@
     "repo": "bright9th/gh-stats",
     "name": "main",
     "protected": true,
-    "commit_sha": "a1e03dd733a8e1d7266f237dfabd9999d439a618",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/a1e03dd733a8e1d7266f237dfabd9999d439a618"
+    "commit_sha": "f143b1c983c3de1fe4dc0516810630201462e9da",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/f143b1c983c3de1fe4dc0516810630201462e9da"
   },
   {
     "repo": "bright9th/JavaGame_GroundZero",
