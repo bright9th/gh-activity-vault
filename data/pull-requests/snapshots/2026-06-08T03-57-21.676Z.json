@@ -4539,7 +4539,7 @@
     ],
     "comments": 0,
     "created_at": "2026-03-24T10:15:28Z",
-    "updated_at": "2026-05-28T11:08:12Z",
+    "updated_at": "2026-06-05T10:14:21Z",
     "closed_at": null,
     "html_url": "https://github.com/bright9th/my-react-vite-template/pull/32",
     "pull_request_url": "https://github.com/bright9th/my-react-vite-template/pull/32"
@@ -4558,7 +4558,7 @@
     ],
     "comments": 0,
     "created_at": "2026-03-24T15:37:50Z",
-    "updated_at": "2026-05-28T17:42:10Z",
+    "updated_at": "2026-05-29T18:45:32Z",
     "closed_at": null,
     "html_url": "https://github.com/bright9th/stella-nova-archive/pull/209",
     "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/209"
@@ -4710,7 +4710,7 @@
     ],
     "comments": 0,
     "created_at": "2026-05-19T22:18:01Z",
-    "updated_at": "2026-05-28T11:08:46Z",
+    "updated_at": "2026-06-05T10:14:50Z",
     "closed_at": null,
     "html_url": "https://github.com/bright9th/my-react-vite-template/pull/38",
     "pull_request_url": "https://github.com/bright9th/my-react-vite-template/pull/38"
@@ -4729,7 +4729,7 @@
     ],
     "comments": 0,
     "created_at": "2026-05-20T01:02:47Z",
-    "updated_at": "2026-05-28T17:42:48Z",
+    "updated_at": "2026-05-29T18:46:37Z",
     "closed_at": null,
     "html_url": "https://github.com/bright9th/stella-nova-archive/pull/212",
     "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/212"
@@ -5037,5 +5037,43 @@
     "closed_at": "2026-05-24T11:12:46Z",
     "html_url": "https://github.com/bright9th/gh-stats/pull/4",
     "pull_request_url": "https://github.com/bright9th/gh-stats/pull/4"
+  },
+  {
+    "id": 4559680009,
+    "number": 10,
+    "repo": "bright9th/gh-activity-vault",
+    "title": "Bump tsx from 4.22.3 to 4.22.4 in the minor-and-patch group across 1 directory",
+    "state": "closed",
+    "author": "dependabot[bot]",
+    "assignees": [],
+    "labels": [
+      "dependencies",
+      "javascript"
+    ],
+    "comments": 1,
+    "created_at": "2026-06-01T01:23:59Z",
+    "updated_at": "2026-06-08T00:35:40Z",
+    "closed_at": "2026-06-08T00:35:38Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/pull/10",
+    "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/10"
+  },
+  {
+    "id": 4609245003,
+    "number": 11,
+    "repo": "bright9th/gh-activity-vault",
+    "title": "Bump the minor-and-patch group across 1 directory with 2 updates",
+    "state": "open",
+    "author": "dependabot[bot]",
+    "assignees": [],
+    "labels": [
+      "dependencies",
+      "javascript"
+    ],
+    "comments": 0,
+    "created_at": "2026-06-08T00:35:43Z",
+    "updated_at": "2026-06-08T00:35:44Z",
+    "closed_at": null,
+    "html_url": "https://github.com/bright9th/gh-activity-vault/pull/11",
+    "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/11"
   }
 ]
