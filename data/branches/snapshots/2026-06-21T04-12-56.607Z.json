@@ -17,8 +17,8 @@
     "repo": "bright9th/bright9th",
     "name": "main",
     "protected": true,
-    "commit_sha": "44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
-    "commit_url": "https://api.github.com/repos/bright9th/bright9th/commits/44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2"
+    "commit_sha": "f75fde646dc3bacfbf1d123028f0f580b0a624fd",
+    "commit_url": "https://api.github.com/repos/bright9th/bright9th/commits/f75fde646dc3bacfbf1d123028f0f580b0a624fd"
   },
   {
     "repo": "bright9th/code-rev-format",
@@ -85,6 +85,13 @@
   },
   {
     "repo": "bright9th/falling-nikochan",
+    "name": "chart-video-renderer",
+    "protected": false,
+    "commit_sha": "114bca2979c70bcf0c743cbffa946237a7f7b744",
+    "commit_url": "https://api.github.com/repos/bright9th/falling-nikochan/commits/114bca2979c70bcf0c743cbffa946237a7f7b744"
+  },
+  {
+    "repo": "bright9th/falling-nikochan",
     "name": "chord-lineconnector",
     "protected": false,
     "commit_sha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
@@ -122,8 +129,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
     "protected": false,
-    "commit_sha": "3b6d0e4910659f59d0a2aec752a3dc55acd1a233",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/3b6d0e4910659f59d0a2aec752a3dc55acd1a233"
+    "commit_sha": "84c8ffc9a3f07e465c38112543d8179c42b745b6",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/84c8ffc9a3f07e465c38112543d8179c42b745b6"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -136,8 +143,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "a9ebe9a1b0c363e68cf3885852a70e2ba25e610f",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a9ebe9a1b0c363e68cf3885852a70e2ba25e610f"
+    "commit_sha": "73dce2cdab9e6c61aa209a042389405b3705e616",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/73dce2cdab9e6c61aa209a042389405b3705e616"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -150,8 +157,8 @@
     "repo": "bright9th/gh-stats",
     "name": "main",
     "protected": true,
-    "commit_sha": "774d2be92844b85cd3bb7946233c5dbd2d24b0e2",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/774d2be92844b85cd3bb7946233c5dbd2d24b0e2"
+    "commit_sha": "d66943b3ce709bd91759dffd1bcc9c812dd0d88f",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/d66943b3ce709bd91759dffd1bcc9c812dd0d88f"
   },
   {
     "repo": "bright9th/JavaGame_GroundZero",
@@ -176,10 +183,10 @@
   },
   {
     "repo": "bright9th/my-react-vite-template",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
     "protected": false,
-    "commit_sha": "3e72c6760ca7f4ffece61709303bb49740b374c9",
-    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/3e72c6760ca7f4ffece61709303bb49740b374c9"
+    "commit_sha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
+    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/432a61f53846f1d3734deb5dbd9faec9cf96ab2d"
   },
   {
     "repo": "bright9th/my-react-vite-template",
