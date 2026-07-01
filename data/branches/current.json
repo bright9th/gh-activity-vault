@@ -129,15 +129,15 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/major-6315faf2cf",
     "protected": false,
-    "commit_sha": "e2f244ebc582a3acf3d952d4ab3338b8db3a9433",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/e2f244ebc582a3acf3d952d4ab3338b8db3a9433"
+    "commit_sha": "4cd24a53245f0ac7dad70c4ecccc777e9d6b794b",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/4cd24a53245f0ac7dad70c4ecccc777e9d6b794b"
   },
   {
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
     "protected": false,
-    "commit_sha": "ebc6e22bf8c2a9a98dea7e8ce008e9713064b1af",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/ebc6e22bf8c2a9a98dea7e8ce008e9713064b1af"
+    "commit_sha": "f919f8480bdb8eca4d1755ff2ac0460d8168e045",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/f919f8480bdb8eca4d1755ff2ac0460d8168e045"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -150,8 +150,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "3792944b91a2e36567e542c170a06e9a3f6012f4",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/3792944b91a2e36567e542c170a06e9a3f6012f4"
+    "commit_sha": "a44fa76cdecd9c3ce283e740c82a1b727ee8f929",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a44fa76cdecd9c3ce283e740c82a1b727ee8f929"
   },
   {
     "repo": "bright9th/gh-stats",
