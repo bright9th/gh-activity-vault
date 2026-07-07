@@ -127,6 +127,20 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "name": "dependabot/npm_and_yarn/major-6315faf2cf",
+    "protected": false,
+    "commit_sha": "1ff75f449c63a5d228ff16f6f4b7d43a0628374d",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/1ff75f449c63a5d228ff16f6f4b7d43a0628374d"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
+    "protected": false,
+    "commit_sha": "5aa6fdb53d9db39fbe310e6949ed2f5d0f220eeb",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/5aa6fdb53d9db39fbe310e6949ed2f5d0f220eeb"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "name": "dev",
     "protected": true,
     "commit_sha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
@@ -136,8 +150,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "c1f42802eb5f01378ac99e4ae1f13ddde5dd3d4c",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/c1f42802eb5f01378ac99e4ae1f13ddde5dd3d4c"
+    "commit_sha": "b4f40bfd949dabfed5f13281587a3e7b52b9e5c0",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/b4f40bfd949dabfed5f13281587a3e7b52b9e5c0"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -150,8 +164,8 @@
     "repo": "bright9th/gh-stats",
     "name": "main",
     "protected": true,
-    "commit_sha": "fcf0917f677eca2e83c06e07f9088a190f23a734",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/fcf0917f677eca2e83c06e07f9088a190f23a734"
+    "commit_sha": "489d05d6b1cc9974b16b43b3a4f3fa7871aebba5",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/489d05d6b1cc9974b16b43b3a4f3fa7871aebba5"
   },
   {
     "repo": "bright9th/JavaGame_GroundZero",
