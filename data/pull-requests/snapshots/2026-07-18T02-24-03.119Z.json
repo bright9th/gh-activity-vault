@@ -4549,17 +4549,17 @@
     "number": 209,
     "repo": "bright9th/stella-nova-archive",
     "title": "Bump the major group across 1 directory with 6 updates",
-    "state": "open",
+    "state": "closed",
     "author": "dependabot[bot]",
     "assignees": [],
     "labels": [
       "dependencies",
       "javascript"
     ],
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-03-24T15:37:50Z",
-    "updated_at": "2026-05-29T18:45:32Z",
-    "closed_at": null,
+    "updated_at": "2026-07-09T13:34:39Z",
+    "closed_at": "2026-07-09T13:34:37Z",
     "html_url": "https://github.com/bright9th/stella-nova-archive/pull/209",
     "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/209"
   },
@@ -4720,17 +4720,17 @@
     "number": 212,
     "repo": "bright9th/stella-nova-archive",
     "title": "Bump the minor-and-patch group across 1 directory with 14 updates",
-    "state": "open",
+    "state": "closed",
     "author": "dependabot[bot]",
     "assignees": [],
     "labels": [
       "dependencies",
       "javascript"
     ],
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-05-20T01:02:47Z",
-    "updated_at": "2026-05-29T18:46:37Z",
-    "closed_at": null,
+    "updated_at": "2026-07-09T13:34:56Z",
+    "closed_at": "2026-07-09T13:34:55Z",
     "html_url": "https://github.com/bright9th/stella-nova-archive/pull/212",
     "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/212"
   },
@@ -5118,7 +5118,7 @@
     "id": 4764168776,
     "number": 13,
     "repo": "bright9th/gh-activity-vault",
-    "title": "Bump tsx from 4.22.3 to 4.23.0 in the minor-and-patch group across 1 directory",
+    "title": "Bump tsx from 4.22.3 to 4.23.1 in the minor-and-patch group across 1 directory",
     "state": "open",
     "author": "dependabot[bot]",
     "assignees": [],
@@ -5128,7 +5128,7 @@
     ],
     "comments": 0,
     "created_at": "2026-06-29T00:35:19Z",
-    "updated_at": "2026-07-07T00:34:14Z",
+    "updated_at": "2026-07-17T00:34:28Z",
     "closed_at": null,
     "html_url": "https://github.com/bright9th/gh-activity-vault/pull/13",
     "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/13"
@@ -5138,6 +5138,25 @@
     "number": 14,
     "repo": "bright9th/gh-activity-vault",
     "title": "Bump @types/node from 25.9.1 to 26.1.0 in the major group across 1 directory",
+    "state": "closed",
+    "author": "dependabot[bot]",
+    "assignees": [],
+    "labels": [
+      "dependencies",
+      "javascript"
+    ],
+    "comments": 1,
+    "created_at": "2026-06-29T00:35:32Z",
+    "updated_at": "2026-07-09T00:34:40Z",
+    "closed_at": "2026-07-09T00:34:38Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/pull/14",
+    "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/14"
+  },
+  {
+    "id": 4842141667,
+    "number": 15,
+    "repo": "bright9th/gh-activity-vault",
+    "title": "Bump the major group across 1 directory with 2 updates",
     "state": "open",
     "author": "dependabot[bot]",
     "assignees": [],
@@ -5146,10 +5165,64 @@
       "javascript"
     ],
     "comments": 0,
-    "created_at": "2026-06-29T00:35:32Z",
-    "updated_at": "2026-07-07T00:34:14Z",
+    "created_at": "2026-07-09T00:34:43Z",
+    "updated_at": "2026-07-17T00:34:33Z",
     "closed_at": null,
-    "html_url": "https://github.com/bright9th/gh-activity-vault/pull/14",
-    "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/14"
+    "html_url": "https://github.com/bright9th/gh-activity-vault/pull/15",
+    "pull_request_url": "https://github.com/bright9th/gh-activity-vault/pull/15"
+  },
+  {
+    "id": 4846680622,
+    "number": 213,
+    "repo": "bright9th/stella-nova-archive",
+    "title": "Bump the major group across 1 directory with 7 updates",
+    "state": "open",
+    "author": "dependabot[bot]",
+    "assignees": [],
+    "labels": [
+      "dependencies",
+      "javascript"
+    ],
+    "comments": 0,
+    "created_at": "2026-07-09T13:34:59Z",
+    "updated_at": "2026-07-17T15:34:19Z",
+    "closed_at": null,
+    "html_url": "https://github.com/bright9th/stella-nova-archive/pull/213",
+    "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/213"
+  },
+  {
+    "id": 4846685129,
+    "number": 214,
+    "repo": "bright9th/stella-nova-archive",
+    "title": "Bump the minor-and-patch group across 1 directory with 13 updates",
+    "state": "open",
+    "author": "dependabot[bot]",
+    "assignees": [],
+    "labels": [
+      "dependencies",
+      "javascript"
+    ],
+    "comments": 0,
+    "created_at": "2026-07-09T13:35:36Z",
+    "updated_at": "2026-07-17T15:35:04Z",
+    "closed_at": null,
+    "html_url": "https://github.com/bright9th/stella-nova-archive/pull/214",
+    "pull_request_url": "https://github.com/bright9th/stella-nova-archive/pull/214"
+  },
+  {
+    "id": 4879348816,
+    "number": 1,
+    "repo": "bright9th/mermaid-viewer",
+    "title": "v1.0.1",
+    "state": "closed",
+    "author": "bright9th",
+    "assignees": [],
+    "labels": [],
+    "comments": 0,
+    "created_at": "2026-07-14T02:41:27Z",
+    "updated_at": "2026-07-14T02:42:03Z",
+    "closed_at": "2026-07-14T02:42:03Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/pull/1",
+    "pull_request_url": "https://github.com/bright9th/mermaid-viewer/pull/1"
   }
 ]
