@@ -1,19 +1,19 @@
 {
-  "started_at": "2026-07-20T03:39:35.911Z",
-  "finished_at": "2026-07-20T04:18:28.674Z",
-  "duration_ms": 2332763,
+  "started_at": "2026-07-21T02:34:30.434Z",
+  "finished_at": "2026-07-21T03:15:06.160Z",
+  "duration_ms": 2435725,
   "collectors": [
     {
       "name": "repos",
       "status": "success",
       "records": 17,
-      "duration_ms": 549
+      "duration_ms": 444
     },
     {
       "name": "stars",
       "status": "success",
       "records": 21,
-      "duration_ms": 416
+      "duration_ms": 399
     },
     {
       "name": "followers",
@@ -25,127 +25,127 @@
       "name": "following",
       "status": "success",
       "records": 2,
-      "duration_ms": 119
+      "duration_ms": 98
     },
     {
       "name": "issues",
       "status": "success",
       "records": 92,
-      "duration_ms": 3268
+      "duration_ms": 3169
     },
     {
       "name": "pull-requests",
       "status": "success",
       "records": 312,
-      "duration_ms": 2778
+      "duration_ms": 2963
     },
     {
       "name": "organizations",
       "status": "success",
       "records": 0,
-      "duration_ms": 112
+      "duration_ms": 105
     },
     {
       "name": "gists",
       "status": "success",
       "records": 0,
-      "duration_ms": 139
+      "duration_ms": 99
     },
     {
       "name": "releases",
       "status": "success",
       "records": 0,
-      "duration_ms": 5700
+      "duration_ms": 6190
     },
     {
       "name": "workflow-runs",
       "status": "success",
-      "records": 2373,
-      "duration_ms": 65051
+      "records": 2385,
+      "duration_ms": 73664
     },
     {
       "name": "issue-comments",
       "status": "success",
       "records": 87,
-      "duration_ms": 5353
+      "duration_ms": 5653
     },
     {
       "name": "pull-request-reviews",
       "status": "success",
       "records": 0,
-      "duration_ms": 97464
+      "duration_ms": 106105
     },
     {
       "name": "pull-request-review-comments",
       "status": "success",
       "records": 0,
-      "duration_ms": 82130
+      "duration_ms": 86169
     },
     {
       "name": "contributors",
       "status": "success",
       "records": 30,
-      "duration_ms": 5852
+      "duration_ms": 6331
     },
     {
       "name": "languages",
       "status": "success",
       "records": 45,
-      "duration_ms": 4752
+      "duration_ms": 4975
     },
     {
       "name": "branches",
       "status": "success",
       "records": 55,
-      "duration_ms": 5455
+      "duration_ms": 5565
     },
     {
       "name": "commits",
       "status": "success",
-      "records": 2555,
-      "duration_ms": 17587
+      "records": 2557,
+      "duration_ms": 18381
     },
     {
       "name": "tags",
       "status": "success",
       "records": 0,
-      "duration_ms": 4933
+      "duration_ms": 4943
     },
     {
       "name": "deployments",
       "status": "success",
       "records": 115,
-      "duration_ms": 4893
+      "duration_ms": 4934
     },
     {
       "name": "milestones",
       "status": "success",
       "records": 7,
-      "duration_ms": 4702
+      "duration_ms": 4962
     },
     {
       "name": "commit-comments",
       "status": "success",
       "records": 0,
-      "duration_ms": 4665
+      "duration_ms": 5262
     },
     {
       "name": "environments",
       "status": "success",
       "records": 5,
-      "duration_ms": 4244
+      "duration_ms": 4312
     },
     {
       "name": "issue-reactions",
       "status": "success",
       "records": 0,
-      "duration_ms": 26330
+      "duration_ms": 27864
     },
     {
       "name": "issue-comment-reactions",
       "status": "success",
       "records": 0,
-      "duration_ms": 23156
+      "duration_ms": 23926
     },
     {
       "name": "pull-request-review-comment-reactions",
@@ -157,25 +157,25 @@
       "name": "commit-comment-reactions",
       "status": "success",
       "records": 0,
-      "duration_ms": 1
+      "duration_ms": 2
     },
     {
       "name": "labels",
       "status": "success",
       "records": 173,
-      "duration_ms": 2413
+      "duration_ms": 2712
     },
     {
       "name": "commit-stats",
       "status": "success",
-      "records": 22465,
-      "duration_ms": 1133061
+      "records": 22559,
+      "duration_ms": 1143746
     },
     {
       "name": "check-runs",
       "status": "success",
-      "records": 1666,
-      "duration_ms": 827103
+      "records": 1731,
+      "duration_ms": 892179
     }
   ]
 }
