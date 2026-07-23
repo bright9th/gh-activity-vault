@@ -16261,6 +16261,30 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "sha": "23466e5e35c99ddba2d3eccae666bb80035fc2d4",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-17T03:23:00Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/23466e5e35c99ddba2d3eccae666bb80035fc2d4"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "2f8d121eb87dc62220aedae4b67a8fabdeeb5375",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-19T03:14:39Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/2f8d121eb87dc62220aedae4b67a8fabdeeb5375"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "sha": "35a72a9a2850eb41ed5a95dfbbfb198de1dbc20d",
     "author_login": "bright9th",
     "committer_login": "web-flow",
@@ -16357,6 +16381,18 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "sha": "48b284b92ef679b6b85080c65a11693df257ccd5",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-18T03:03:21Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/48b284b92ef679b6b85080c65a11693df257ccd5"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "sha": "50875fcb90b6a838d5ed7efa39421f06d8394b97",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -16381,6 +16417,18 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "sha": "5dc88cb8de39414ceb2bd99a6acd2cb3492f6faf",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-15T03:01:18Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/5dc88cb8de39414ceb2bd99a6acd2cb3492f6faf"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "sha": "60234e3fa6e57107521e33774614f64a3334d150",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -16390,6 +16438,18 @@
     "comment_count": 0,
     "committed_at": "2026-06-17T04:41:55Z",
     "html_url": "https://github.com/bright9th/gh-activity-vault/commit/60234e3fa6e57107521e33774614f64a3334d150"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "6521751dcfef700e35e34a3af783ca14f1f48d11",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T03:13:11Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/6521751dcfef700e35e34a3af783ca14f1f48d11"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -16585,6 +16645,18 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "sha": "939e59e511c226490ab854d5aadad4be079d25b2",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T03:23:39Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/939e59e511c226490ab854d5aadad4be079d25b2"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "sha": "943cae82a5068adf1569add67edc4d5e2b496247",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -16618,6 +16690,18 @@
     "comment_count": 0,
     "committed_at": "2026-05-25T04:17:23Z",
     "html_url": "https://github.com/bright9th/gh-activity-vault/commit/a015a8e5be6a3eddd3d51ae77db66951622a1162"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "a140d6d6f4072dd45be474f40256db8a47c2ab6c",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-20T04:18:29Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/a140d6d6f4072dd45be474f40256db8a47c2ab6c"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -16801,6 +16885,18 @@
   },
   {
     "repo": "bright9th/gh-activity-vault",
+    "sha": "ba6d1189924eff16ae9dd8e7c75f75c943539ead",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T03:20:19Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/ba6d1189924eff16ae9dd8e7c75f75c943539ead"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
     "sha": "bb573f14bfaf857a9f1f817dd6ba63bd002fd8a9",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -16822,6 +16918,18 @@
     "comment_count": 0,
     "committed_at": "2026-05-31T04:19:45Z",
     "html_url": "https://github.com/bright9th/gh-activity-vault/commit/bd26076b8069f04fdb06827cfa88f6aef06a45be"
+  },
+  {
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "bf0395b8a60d9e70a2aba78d6d111eda48922bf2",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-16T03:16:06Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/bf0395b8a60d9e70a2aba78d6d111eda48922bf2"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -16980,6 +17088,18 @@
     "html_url": "https://github.com/bright9th/gh-activity-vault/commit/eeffb0c519abe4971fc83c92d3cf55502fd67431"
   },
   {
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "efcd687af67790b7d4c1b8d679e5dad0933140d2",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "sync snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T03:15:06Z",
+    "html_url": "https://github.com/bright9th/gh-activity-vault/commit/efcd687af67790b7d4c1b8d679e5dad0933140d2"
+  },
+  {
     "repo": "bright9th/gh-stats",
     "sha": "061c8196dd1693482ab2bef37c77da5f3234e3ca",
     "author_login": "github-actions[bot]",
@@ -17110,6 +17230,18 @@
     "comment_count": 0,
     "committed_at": "2026-05-28T15:24:20Z",
     "html_url": "https://github.com/bright9th/gh-stats/commit/2bed2cdac9e86449edb17902f137e46d95d1642b"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "2dc90dd483e50b1f8bc80d8156670631bcf6a73d",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T13:13:05Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/2dc90dd483e50b1f8bc80d8156670631bcf6a73d"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -17401,6 +17533,42 @@
   },
   {
     "repo": "bright9th/gh-stats",
+    "sha": "783fdc1f180f7110c6ca8003815ff01f3f7c8202",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T13:04:40Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/783fdc1f180f7110c6ca8003815ff01f3f7c8202"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "795a907e4071787dbf59440afe2cb2a680f387af",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-20T13:45:17Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/795a907e4071787dbf59440afe2cb2a680f387af"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "7e6d06c0f920f945dd9c72ed180ced83c9bb674a",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-17T13:00:30Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/7e6d06c0f920f945dd9c72ed180ced83c9bb674a"
+  },
+  {
+    "repo": "bright9th/gh-stats",
     "sha": "86c7f7f410838df02ea79764d3f03bb3cb8a1dab",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -17422,6 +17590,30 @@
     "comment_count": 0,
     "committed_at": "2026-05-23T13:15:28Z",
     "html_url": "https://github.com/bright9th/gh-stats/commit/86d9d9497fc2920d4af0009b0c1d413ba551440c"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "86ea32591c5e76e3ee20baff8a78cea447f981f2",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T13:18:40Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/86ea32591c5e76e3ee20baff8a78cea447f981f2"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "8af859442db5664f72f03577c387d7306cc64baa",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-19T12:49:36Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/8af859442db5664f72f03577c387d7306cc64baa"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -17485,6 +17677,18 @@
   },
   {
     "repo": "bright9th/gh-stats",
+    "sha": "a4ecc9f510bcc6aa6eee441fef75a24a9891d295",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-16T13:15:50Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/a4ecc9f510bcc6aa6eee441fef75a24a9891d295"
+  },
+  {
+    "repo": "bright9th/gh-stats",
     "sha": "aa4c486bf6b2532caafbd90145c3b6c786c7a8e8",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -17545,6 +17749,18 @@
   },
   {
     "repo": "bright9th/gh-stats",
+    "sha": "ba9437b95a9a67905d8cc61f42132cb5ba5f89e0",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T14:00:20Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/ba9437b95a9a67905d8cc61f42132cb5ba5f89e0"
+  },
+  {
+    "repo": "bright9th/gh-stats",
     "sha": "bde38237cfea365c9a1d81a94b8988a3916ec55e",
     "author_login": "github-actions[bot]",
     "committer_login": "github-actions[bot]",
@@ -17602,6 +17818,18 @@
     "comment_count": 0,
     "committed_at": "2026-06-09T14:19:18Z",
     "html_url": "https://github.com/bright9th/gh-stats/commit/cdd7baa051ecc72d15ff34f790745073551e8b71"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "cde8043cc4e178f04d502940552f715107697832",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-18T12:46:10Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/cde8043cc4e178f04d502940552f715107697832"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -17710,6 +17938,18 @@
     "comment_count": 0,
     "committed_at": "2026-05-23T09:05:20Z",
     "html_url": "https://github.com/bright9th/gh-stats/commit/e915594a97692f4536373cc2af41cf3836d738d1"
+  },
+  {
+    "repo": "bright9th/gh-stats",
+    "sha": "ec1cc699942935e66e7ea5863efabdf84325f92a",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "updated snapshot",
+    "comment_count": 0,
+    "committed_at": "2026-07-15T13:07:06Z",
+    "html_url": "https://github.com/bright9th/gh-stats/commit/ec1cc699942935e66e7ea5863efabdf84325f92a"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -17940,6 +18180,162 @@
     "html_url": "https://github.com/bright9th/JavaGame_GroundZero/commit/f9d6f3757db2f2e1fe2e4484a9fd7446c2544187"
   },
   {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "0649e9464dd111fb250aae6de79810e284498d9a",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "style",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:10:15Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/0649e9464dd111fb250aae6de79810e284498d9a"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "16212078482730fb360ecbb7b4c63c80b1c58c50",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "autodeploy workflow",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T08:26:27Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/16212078482730fb360ecbb7b4c63c80b1c58c50"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "17f175e7ff9ebb99fa9f654b063670694bdd4af1",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "1.0.0",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T08:24:56Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/17f175e7ff9ebb99fa9f654b063670694bdd4af1"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "524bdc89354df3264a636cd5636a1209207440b5",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "Tuned world mode navigation",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:25:25Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/524bdc89354df3264a636cd5636a1209207440b5"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "6d0d60184af59ce96fb982633024b6148c62744a",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "node coordinates now comes from dagre (original mermaid logic)",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T00:54:16Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/6d0d60184af59ce96fb982633024b6148c62744a"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "74ff1f4d3874c600356f3eab22e9f86426ff529f",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "1.0.1",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:41:00Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/74ff1f4d3874c600356f3eab22e9f86426ff529f"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "88a67772545f9b4531150ec6482bc0d13c473b2a",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "Init",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T05:21:45Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/88a67772545f9b4531150ec6482bc0d13c473b2a"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "a5597f20e382624e25a8d0a2c93755f466b79ba8",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "Fix line graph shape",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:05:53Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/a5597f20e382624e25a8d0a2c93755f466b79ba8"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "ba3f1a0cda06cf92f3f6a07db084da2323e656e3",
+    "author_login": "bright9th",
+    "committer_login": "web-flow",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Merge pull request #1 from bright9th/dev\n\nv1.0.1",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:42:03Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/ba3f1a0cda06cf92f3f6a07db084da2323e656e3"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "cdd0e7cf4f9e00553153347f36282720daddb44c",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "Everything works except graph overlapping + keyboard navigation",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T08:24:51Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/cdd0e7cf4f9e00553153347f36282720daddb44c"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "db240c78dc93e22dff0746d886d788f5889ed98e",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "temp",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T13:48:30Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/db240c78dc93e22dff0746d886d788f5889ed98e"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "f11b503ab01022d4db88b12512fec613152e534a",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "change base url",
+    "comment_count": 0,
+    "committed_at": "2026-07-13T08:41:25Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/f11b503ab01022d4db88b12512fec613152e534a"
+  },
+  {
+    "repo": "bright9th/mermaid-viewer",
+    "sha": "f68a3d085727b9a54d11c420a8482be280f061b8",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "taming.tanaphat@gmail.com",
+    "message": "Modify graph traversal key navigation",
+    "comment_count": 0,
+    "committed_at": "2026-07-14T02:40:30Z",
+    "html_url": "https://github.com/bright9th/mermaid-viewer/commit/f68a3d085727b9a54d11c420a8482be280f061b8"
+  },
+  {
     "repo": "bright9th/my-react-vite-template",
     "sha": "003f00bb7f4408726cd4bd14fdf1c99a6c8c438a",
     "author_login": "bright9th",
@@ -18109,6 +18505,18 @@
   },
   {
     "repo": "bright9th/my-react-vite-template",
+    "sha": "49fc1a88089d3322f268a059f86cf2f5f6673249",
+    "author_login": "github-actions[bot]",
+    "committer_login": "github-actions[bot]",
+    "author_name": "github-actions[bot]",
+    "author_email": "github-actions[bot]@users.noreply.github.com",
+    "message": "Update dependency info in README.md",
+    "comment_count": 0,
+    "committed_at": "2026-03-24T10:15:44Z",
+    "html_url": "https://github.com/bright9th/my-react-vite-template/commit/49fc1a88089d3322f268a059f86cf2f5f6673249"
+  },
+  {
+    "repo": "bright9th/my-react-vite-template",
     "sha": "4a3b158315d79218905014b1007367fbb93204d7",
     "author_login": "bright9th",
     "committer_login": "web-flow",
@@ -18142,6 +18550,18 @@
     "comment_count": 0,
     "committed_at": "2025-12-19T10:03:57Z",
     "html_url": "https://github.com/bright9th/my-react-vite-template/commit/50800a879f020c7084618ea90ab495d94f40a773"
+  },
+  {
+    "repo": "bright9th/my-react-vite-template",
+    "sha": "641a48d1a1752c81d6a61f1ae485c6666804ea34",
+    "author_login": "bright9th",
+    "committer_login": "web-flow",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Merge pull request #32 from bright9th/dependabot/npm_and_yarn/major-345d603f8d\n\nBump the major group across 1 directory with 5 updates",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T12:24:30Z",
+    "html_url": "https://github.com/bright9th/my-react-vite-template/commit/641a48d1a1752c81d6a61f1ae485c6666804ea34"
   },
   {
     "repo": "bright9th/my-react-vite-template",
@@ -18286,6 +18706,18 @@
     "comment_count": 0,
     "committed_at": "2026-01-06T06:03:09Z",
     "html_url": "https://github.com/bright9th/my-react-vite-template/commit/913ea895b0cb3b983fccc13f65aff4173bb05c04"
+  },
+  {
+    "repo": "bright9th/my-react-vite-template",
+    "sha": "92cd432cd616516d5ed7504e93fc42bf4f62f721",
+    "author_login": "dependabot[bot]",
+    "committer_login": "web-flow",
+    "author_name": "dependabot[bot]",
+    "author_email": "49699333+dependabot[bot]@users.noreply.github.com",
+    "message": "Bump the major group across 1 directory with 5 updates\n\nBumps the major group with 5 updates in the / directory:\n\n| Package | From | To |\n| --- | --- | --- |\n| [lucide-react](https://github.com/lucide-icons/lucide/tree/HEAD/packages/lucide-react) | `0.577.0` | `1.0.1` |\n| [@eslint/js](https://github.com/eslint/eslint/tree/HEAD/packages/js) | `9.39.2` | `10.0.1` |\n| [eslint](https://github.com/eslint/eslint) | `9.39.2` | `10.1.0` |\n| [typescript](https://github.com/microsoft/TypeScript) | `5.9.3` | `6.0.2` |\n| [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) | `7.3.0` | `8.0.2` |\n\n\n\nUpdates `lucide-react` from 0.577.0 to 1.0.1\n- [Release notes](https://github.com/lucide-icons/lucide/releases)\n- [Commits](https://github.com/lucide-icons/lucide/commits/1.0.1/packages/lucide-react)\n\nUpdates `@eslint/js` from 9.39.2 to 10.0.1\n- [Release notes](https://github.com/eslint/eslint/releases)\n- [Commits](https://github.com/eslint/eslint/commits/v10.0.1/packages/js)\n\nUpdates `eslint` from 9.39.2 to 10.1.0\n- [Release notes](https://github.com/eslint/eslint/releases)\n- [Commits](https://github.com/eslint/eslint/compare/v9.39.2...v10.1.0)\n\nUpdates `typescript` from 5.9.3 to 6.0.2\n- [Release notes](https://github.com/microsoft/TypeScript/releases)\n- [Commits](https://github.com/microsoft/TypeScript/compare/v5.9.3...v6.0.2)\n\nUpdates `vite` from 7.3.0 to 8.0.2\n- [Release notes](https://github.com/vitejs/vite/releases)\n- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)\n- [Commits](https://github.com/vitejs/vite/commits/create-vite@8.0.2/packages/vite)\n\n---\nupdated-dependencies:\n- dependency-name: lucide-react\n  dependency-version: 1.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: major\n- dependency-name: \"@eslint/js\"\n  dependency-version: 10.0.1\n  dependency-type: direct:development\n  update-type: version-update:semver-major\n  dependency-group: major\n- dependency-name: eslint\n  dependency-version: 10.1.0\n  dependency-type: direct:development\n  update-type: version-update:semver-major\n  dependency-group: major\n- dependency-name: typescript\n  dependency-version: 6.0.2\n  dependency-type: direct:development\n  update-type: version-update:semver-major\n  dependency-group: major\n- dependency-name: vite\n  dependency-version: 8.0.2\n  dependency-type: direct:development\n  update-type: version-update:semver-major\n  dependency-group: major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "comment_count": 0,
+    "committed_at": "2026-03-24T10:15:27Z",
+    "html_url": "https://github.com/bright9th/my-react-vite-template/commit/92cd432cd616516d5ed7504e93fc42bf4f62f721"
   },
   {
     "repo": "bright9th/my-react-vite-template",
@@ -30334,5 +30766,101 @@
     "comment_count": 0,
     "committed_at": "2025-12-29T04:04:46Z",
     "html_url": "https://github.com/bright9th/stella-nova-archive-db/commit/ffcaf86b8dadaf9ce6985f1b8cf418d532837263"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "2400d86856a93cbf8f5e3cb4a74613038b7616db",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Embedded background image",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T07:28:58Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/2400d86856a93cbf8f5e3cb4a74613038b7616db"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "294769354c4a3ebb5d9612640a7d58276f0a8e4e",
+    "author_login": "bright9th",
+    "committer_login": "web-flow",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Initial commit",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T12:30:17Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/294769354c4a3ebb5d9612640a7d58276f0a8e4e"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "59a90bbc7ab36bb7e1fa870c080a92f48e7c54e8",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Init new",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T12:52:11Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/59a90bbc7ab36bb7e1fa870c080a92f48e7c54e8"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "7448d24f16cac799dcb0ebec1a8364affbce61ed",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "New triangle button",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T13:31:41Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/7448d24f16cac799dcb0ebec1a8364affbce61ed"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "7edeece83259e84b752ef5e7de7e44d3d586c84a",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Add voice + dialogue",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T07:16:53Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/7edeece83259e84b752ef5e7de7e44d3d586c84a"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "d9cdb43634a50db7868f6363acfed93d2e6c7f56",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Triangle Clicker",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T13:45:59Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/d9cdb43634a50db7868f6363acfed93d2e6c7f56"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "e3a2bd53cbbdc7b7e4e81880b6ec17dd0fd73242",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "1 Updated, 1 New voice + dialogue",
+    "comment_count": 0,
+    "committed_at": "2026-07-22T07:53:35Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/e3a2bd53cbbdc7b7e4e81880b6ec17dd0fd73242"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "sha": "f058f6c517159ff2854f19ee2fc9f56473afc21c",
+    "author_login": "bright9th",
+    "committer_login": "bright9th",
+    "author_name": "BrightNighter",
+    "author_email": "129858054+bright9th@users.noreply.github.com",
+    "message": "Triangle",
+    "comment_count": 0,
+    "committed_at": "2026-07-21T12:53:27Z",
+    "html_url": "https://github.com/bright9th/Triangle-Chan/commit/f058f6c517159ff2854f19ee2fc9f56473afc21c"
   }
 ]
