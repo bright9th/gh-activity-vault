@@ -129,15 +129,15 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/major-05e7a1191d",
     "protected": false,
-    "commit_sha": "6ca674c023d03b64edf2a361f3f93023f7b42511",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/6ca674c023d03b64edf2a361f3f93023f7b42511"
+    "commit_sha": "e2bd5727df6550b42d8270f0d03ff019cc949914",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/e2bd5727df6550b42d8270f0d03ff019cc949914"
   },
   {
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
     "protected": false,
-    "commit_sha": "667849a96870a14979c43b5814ea3181fc9ad64d",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/667849a96870a14979c43b5814ea3181fc9ad64d"
+    "commit_sha": "6a05001ff5683b082998a4e67a2880bb0dcb99f4",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/6a05001ff5683b082998a4e67a2880bb0dcb99f4"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -150,8 +150,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "a140d6d6f4072dd45be474f40256db8a47c2ab6c",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a140d6d6f4072dd45be474f40256db8a47c2ab6c"
+    "commit_sha": "5faaa48e7e7042ccac5a89651afd8ffd5e9a0a2c",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/5faaa48e7e7042ccac5a89651afd8ffd5e9a0a2c"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -164,8 +164,8 @@
     "repo": "bright9th/gh-stats",
     "name": "main",
     "protected": true,
-    "commit_sha": "795a907e4071787dbf59440afe2cb2a680f387af",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/795a907e4071787dbf59440afe2cb2a680f387af"
+    "commit_sha": "003c130f58d73a13c5555d43e4a4d98b555af776",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/003c130f58d73a13c5555d43e4a4d98b555af776"
   },
   {
     "repo": "bright9th/JavaGame_GroundZero",
@@ -204,17 +204,17 @@
   },
   {
     "repo": "bright9th/my-react-vite-template",
-    "name": "dependabot/npm_and_yarn/major-345d603f8d",
+    "name": "dependabot/npm_and_yarn/major-05e7a1191d",
     "protected": false,
-    "commit_sha": "49fc1a88089d3322f268a059f86cf2f5f6673249",
-    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/49fc1a88089d3322f268a059f86cf2f5f6673249"
+    "commit_sha": "64803fa3d13c72ce0555438746484fd9ce17926b",
+    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/64803fa3d13c72ce0555438746484fd9ce17926b"
   },
   {
     "repo": "bright9th/my-react-vite-template",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-8ec9d348d6",
     "protected": false,
-    "commit_sha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
-    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/432a61f53846f1d3734deb5dbd9faec9cf96ab2d"
+    "commit_sha": "7043c2e9473f262941cc358ededc2bf216aeb36f",
+    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/7043c2e9473f262941cc358ededc2bf216aeb36f"
   },
   {
     "repo": "bright9th/my-react-vite-template",
@@ -227,8 +227,8 @@
     "repo": "bright9th/my-react-vite-template",
     "name": "main",
     "protected": true,
-    "commit_sha": "d14ba85639656bc0e62953067f38bb541995f093",
-    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/d14ba85639656bc0e62953067f38bb541995f093"
+    "commit_sha": "641a48d1a1752c81d6a61f1ae485c6666804ea34",
+    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/641a48d1a1752c81d6a61f1ae485c6666804ea34"
   },
   {
     "repo": "bright9th/my-react-vite-template",
@@ -383,5 +383,33 @@
     "protected": false,
     "commit_sha": "e7dd2768406432621c143515469dd687289ee361",
     "commit_url": "https://api.github.com/repos/bright9th/stella-nova-archive-db/commits/e7dd2768406432621c143515469dd687289ee361"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "name": "dependabot/npm_and_yarn/major-05e7a1191d",
+    "protected": false,
+    "commit_sha": "e2a5b6b791efcdde53507ea4c78665c3938a3240",
+    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/e2a5b6b791efcdde53507ea4c78665c3938a3240"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-594c305381",
+    "protected": false,
+    "commit_sha": "861ad9c1b9af625d24efd20fda308c79fad9c249",
+    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/861ad9c1b9af625d24efd20fda308c79fad9c249"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "name": "gh-pages",
+    "protected": false,
+    "commit_sha": "79ba11fd5c229edefa6051b84bc19d5cef595f6f",
+    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/79ba11fd5c229edefa6051b84bc19d5cef595f6f"
+  },
+  {
+    "repo": "bright9th/Triangle-Chan",
+    "name": "main",
+    "protected": true,
+    "commit_sha": "7448d24f16cac799dcb0ebec1a8364affbce61ed",
+    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/7448d24f16cac799dcb0ebec1a8364affbce61ed"
   }
 ]
