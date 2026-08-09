@@ -129,15 +129,15 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "dependabot/npm_and_yarn/major-05e7a1191d",
     "protected": false,
-    "commit_sha": "74145d58ce8dfdee93f4fe23f6b1856fc724fd1c",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/74145d58ce8dfdee93f4fe23f6b1856fc724fd1c"
+    "commit_sha": "25abc07f2832f4c52e6e4628d5d97089c6a3975d",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/25abc07f2832f4c52e6e4628d5d97089c6a3975d"
   },
   {
     "repo": "bright9th/gh-activity-vault",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-7b2c04a67e",
     "protected": false,
-    "commit_sha": "98bef374dae912941e8ed5114ee0b23f149ac4b6",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/98bef374dae912941e8ed5114ee0b23f149ac4b6"
+    "commit_sha": "d0881a19c3a031bad2e7c7a6fe305238c496fab5",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/d0881a19c3a031bad2e7c7a6fe305238c496fab5"
   },
   {
     "repo": "bright9th/gh-activity-vault",
@@ -150,8 +150,8 @@
     "repo": "bright9th/gh-activity-vault",
     "name": "main",
     "protected": true,
-    "commit_sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/2b27e201f30812c2705379b7e8c24151c5e4fc19"
+    "commit_sha": "741c8aecc20f21b151ceeb47ad537e7cb164aea0",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/741c8aecc20f21b151ceeb47ad537e7cb164aea0"
   },
   {
     "repo": "bright9th/gh-stats",
@@ -164,8 +164,8 @@
     "repo": "bright9th/gh-stats",
     "name": "main",
     "protected": true,
-    "commit_sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
-    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/526eedc8533a27f1487cdecebf06f4f394be5f4b"
+    "commit_sha": "702e903aad8f531b2b8bdf5f5195aef94c479619",
+    "commit_url": "https://api.github.com/repos/bright9th/gh-stats/commits/702e903aad8f531b2b8bdf5f5195aef94c479619"
   },
   {
     "repo": "bright9th/JavaGame_GroundZero",
@@ -211,10 +211,10 @@
   },
   {
     "repo": "bright9th/my-react-vite-template",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-8ec9d348d6",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-8aedb5d064",
     "protected": false,
-    "commit_sha": "7043c2e9473f262941cc358ededc2bf216aeb36f",
-    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/7043c2e9473f262941cc358ededc2bf216aeb36f"
+    "commit_sha": "3b3637409e462aa83fed266c0c8e3205a8350728",
+    "commit_url": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/3b3637409e462aa83fed266c0c8e3205a8350728"
   },
   {
     "repo": "bright9th/my-react-vite-template",
@@ -295,10 +295,10 @@
   },
   {
     "repo": "bright9th/stella-nova-archive",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-b9065fdb53",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-300dee4f5c",
     "protected": false,
-    "commit_sha": "44f7bc3e0d406aae8ce48e0ce422fb386e8d189b",
-    "commit_url": "https://api.github.com/repos/bright9th/stella-nova-archive/commits/44f7bc3e0d406aae8ce48e0ce422fb386e8d189b"
+    "commit_sha": "a3d7352aa0315e1397bc7b7d64953f0ee59ddad2",
+    "commit_url": "https://api.github.com/repos/bright9th/stella-nova-archive/commits/a3d7352aa0315e1397bc7b7d64953f0ee59ddad2"
   },
   {
     "repo": "bright9th/stella-nova-archive",
@@ -393,10 +393,10 @@
   },
   {
     "repo": "bright9th/Triangle-Chan",
-    "name": "dependabot/npm_and_yarn/minor-and-patch-594c305381",
+    "name": "dependabot/npm_and_yarn/minor-and-patch-9f4e74d039",
     "protected": false,
-    "commit_sha": "861ad9c1b9af625d24efd20fda308c79fad9c249",
-    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/861ad9c1b9af625d24efd20fda308c79fad9c249"
+    "commit_sha": "8bef3ce2a28527440a9b7f4e2af8cbb1481f22de",
+    "commit_url": "https://api.github.com/repos/bright9th/Triangle-Chan/commits/8bef3ce2a28527440a9b7f4e2af8cbb1481f22de"
   },
   {
     "repo": "bright9th/Triangle-Chan",
