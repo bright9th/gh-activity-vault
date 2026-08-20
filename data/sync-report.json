@@ -1,181 +1,205 @@
 {
-  "started_at": "2026-08-19T01:09:05.867Z",
-  "finished_at": "2026-08-19T01:51:36.880Z",
-  "duration_ms": 2551013,
+  "started_at": "2026-08-20T01:08:25.553Z",
+  "finished_at": "2026-08-20T01:27:23.493Z",
+  "duration_ms": 1137940,
   "collectors": [
     {
       "name": "repos",
-      "status": "success",
-      "records": 18,
-      "duration_ms": 596
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 121,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "stars",
-      "status": "success",
-      "records": 22,
-      "duration_ms": 587
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 62,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "followers",
-      "status": "success",
-      "records": 1,
-      "duration_ms": 170
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 63,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "following",
-      "status": "success",
-      "records": 2,
-      "duration_ms": 137
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 62,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "issues",
-      "status": "success",
-      "records": 92,
-      "duration_ms": 3736
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 61,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "pull-requests",
-      "status": "success",
-      "records": 329,
-      "duration_ms": 3438
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 62,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "organizations",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 147
+      "duration_ms": 75,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "gists",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 124
+      "duration_ms": 74,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "releases",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 6400
+      "duration_ms": 218,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "workflow-runs",
-      "status": "success",
-      "records": 2834,
-      "duration_ms": 70673
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 215,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "issue-comments",
-      "status": "success",
-      "records": 102,
-      "duration_ms": 6241
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 212,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "pull-request-reviews",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 119576
+      "duration_ms": 211,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "pull-request-review-comments",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 104246
+      "duration_ms": 213,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "contributors",
-      "status": "success",
-      "records": 31,
-      "duration_ms": 6657
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 212,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "languages",
-      "status": "success",
-      "records": 49,
-      "duration_ms": 5487
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 212,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "branches",
-      "status": "success",
-      "records": 59,
-      "duration_ms": 6364
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 210,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "commits",
-      "status": "success",
-      "records": 2626,
-      "duration_ms": 22373
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 211,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "tags",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 5638
+      "duration_ms": 225,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "deployments",
-      "status": "success",
-      "records": 121,
-      "duration_ms": 5722
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 212,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "milestones",
-      "status": "success",
-      "records": 7,
-      "duration_ms": 5606
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 211,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "commit-comments",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 5689
+      "duration_ms": 217,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "environments",
       "status": "success",
-      "records": 6,
-      "duration_ms": 5534
+      "records": 0,
+      "duration_ms": 3910
     },
     {
       "name": "issue-reactions",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 32077
+      "duration_ms": 211,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "issue-comment-reactions",
-      "status": "success",
+      "status": "failed",
       "records": 0,
-      "duration_ms": 32738
+      "duration_ms": 212,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "pull-request-review-comment-reactions",
       "status": "success",
       "records": 0,
-      "duration_ms": 1
+      "duration_ms": 6
     },
     {
       "name": "commit-comment-reactions",
       "status": "success",
       "records": 0,
-      "duration_ms": 1
+      "duration_ms": 2
     },
     {
       "name": "labels",
-      "status": "success",
-      "records": 184,
-      "duration_ms": 3301
+      "status": "failed",
+      "records": 0,
+      "duration_ms": 64,
+      "error": "Bad credentials - https://docs.github.com/rest"
     },
     {
       "name": "commit-stats",
       "status": "success",
-      "records": 25403,
-      "duration_ms": 1321961
+      "records": 0,
+      "duration_ms": 564679
     },
     {
       "name": "check-runs",
       "status": "success",
-      "records": 411,
-      "duration_ms": 775368
+      "records": 0,
+      "duration_ms": 565154
     }
   ]
 }
